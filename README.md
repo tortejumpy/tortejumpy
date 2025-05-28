@@ -21,14 +21,14 @@
 ## ⚙️ **My Toolkit: Where the Magic Happens!** ⚙️
 
 <p align="center">
-  ✨ **Languages & Runtimes:** ✨
+  ✨ Languages & Runtimes: ✨
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
   <br>
   <br>
-  ⚛️ **MERN Stack Power!** ⚛️
+  ⚛️ MERN Stack Power! ⚛️
   <br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
   <br>
   <br>
-  🧠 **Data Science / AI / ML Arsenal!** 🧠
+  🧠 Data Science / AI / ML Arsenal! 🧠
   <br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
@@ -49,7 +49,7 @@
   <!-- Add more specific AI/ML/Data Science tools like NLTK, spaCy, etc. if you use them -->
   <br>
   <br>
-  🌐 **Frontend & Backend Essentials:** 🌐
+  🌐 Frontend & Backend Essentials: 🌐
   <br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
@@ -60,9 +60,9 @@
 
 ## ✨ **Look! Projects in Action!** ✨
 
-*   **Project Name 1:** [Link to Repo](https://github.com/tortejumpy/AI-Voice-Based-Personal-Virtual-Assistant) - See the code sparkle! ✨
-*   **Project Name 2:** [Link to Repo]((https://github.com/tortejumpy/real-time-fraud-detection)) - Prepare to be amazed! 🤯
-*   **Project Name 3:** [Link to Repo]((https://github.com/tortejumpy/Math-with-gesture-using-ai)) - It's alive! 👇
+*   **AI-Voice-Based-Personal-Virtual-Assistant:** (https://github.com/tortejumpy/AI-Voice-Based-Personal-Virtual-Assistant) - See the code sparkle! ✨
+*   **Real-time-fraud-detection:** (https://github.com/tortejumpy/real-time-fraud-detection) - Prepare to be amazed! 🤯
+*   **Math-with-gesture-using-ai:** (https://github.com/tortejumpy/Math-with-gesture-using-ai) - It's alive! 👇
 
 ---
 
