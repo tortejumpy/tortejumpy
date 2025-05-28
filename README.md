@@ -1,4 +1,4 @@
-# <p align="center">✨🌈🎉 **WELCOME TO THE DIGITAL PLAYGROUND OF Har****sh Pandey (tortejumpy)!** 🎉🌈✨</p>
+# <p align="center"> **WELCOME TO THE DIGITAL PLAYGROUND OF Harsh Pandey!** </p>
 
 ---
 
@@ -13,7 +13,7 @@
 ## 😎 **About Me: The Tech Explorer!** 😎
 
 <p>
-  Fueled by a passion for innovation and an unhealthy amount of caffeine ☕, I navigate the exciting worlds of **Data Science**, **AI/ML Engineering**, and **Full Stack Development**. I thrive on turning complex problems into elegant, colorful solutions!
+  Fueled by a passion for innovation and an unhealthy amount of caffeine ☕, I navigate the exciting worlds of Data Science, AI/ML Engineering, and Full Stack Development. I thrive on turning complex problems into elegant, colorful solutions!
 </p>
 
 ---
@@ -60,9 +60,9 @@
 
 ## ✨ **Look! Projects in Action!** ✨
 
-*   **Project Name 1:** [Link to Repo](YourRepoLink1) - See the code sparkle! ✨
-*   **Project Name 2:** [Link to Repo](YourRepoLink2) - Prepare to be amazed! 🤯
-*   **Project Name 3:** [Link to Repo](YourRepoLink3) - It's alive! 👇
+*   **Project Name 1:** [Link to Repo](https://github.com/tortejumpy/AI-Voice-Based-Personal-Virtual-Assistant) - See the code sparkle! ✨
+*   **Project Name 2:** [Link to Repo]((https://github.com/tortejumpy/real-time-fraud-detection)) - Prepare to be amazed! 🤯
+*   **Project Name 3:** [Link to Repo]((https://github.com/tortejumpy/Math-with-gesture-using-ai)) - It's alive! 👇
 
 ---
 
