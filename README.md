@@ -1,4 +1,4 @@
-# <p align="center">🎉🔥 **HELLO WORLD! I'M Har****sh Pandey (tortejumpy)!** 🔥🎉</p>
+# <p align="center">🎉🔥 **HELLO WORLD! I'M Harsh Pandey (tortejumpy)!** 🔥🎉</p>
 
 ---
 
