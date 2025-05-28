@@ -60,9 +60,10 @@
 
 ## ✨ **Look! Projects in Action!** ✨
 
-*   **AI-Voice-Based-Personal-Virtual-Assistant:** (https://github.com/tortejumpy/AI-Voice-Based-Personal-Virtual-Assistant) - See the code sparkle! ✨
-*   **Real-time-fraud-detection:** (https://github.com/tortejumpy/real-time-fraud-detection) - Prepare to be amazed! 🤯
-*   **Math-with-gesture-using-ai:** (https://github.com/tortejumpy/Math-with-gesture-using-ai) - It's alive! 👇
+*   **Serenity-bot:** (https://github.com/tortejumpy/serenity-bot)
+*   **AI-Voice-Based-Personal-Virtual-Assistant:** (https://github.com/tortejumpy/AI-Voice-Based-Personal-Virtual-Assistant) 
+*   **Real-time-fraud-detection:** (https://github.com/tortejumpy/real-time-fraud-detection) 
+*   **Math-with-gesture-using-ai:** (https://github.com/tortejumpy/Math-with-gesture-using-ai)
 
 ---
 
