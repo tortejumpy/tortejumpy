@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20Systems%20That%20Think%2C%20Scale%20%26%20Deliver&descAlignY=58&descSize=17&animation=fadeIn" alt="header" />
+[![Name](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=3000&pause=99999&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Harsh+Pandey)](https://github.com/tortejumpy)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=🤖+Agentic+AI+%26+RAG+Systems+Engineer;📊+Data+Scientist+%7C+ML+Practitioner;🌐+Full+Stack+Developer+(MERN+%2B+Microservices);🔬+NLP+%7C+Computer+Vision+%7C+LLMs;🚀+From+Research+to+Production+—+End+to+End)](https://git.io/typing-svg)
+[![Tagline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=999999&color=7B2FFF&center=true&vCenter=true&multiline=true&width=700&height=50&lines=Building+AI+Systems+That+Think%2C+Scale+%26+Deliver)](https://github.com/tortejumpy)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=🤖+Agentic+AI+%26+RAG+Systems+Engineer;📊+Data+Scientist+%7C+ML+Practitioner;🌐+Full+Stack+Developer+(MERN+%2B+Microservices);🔬+NLP+%7C+Computer+Vision+%7C+LLMs;🚀+From+Research+to+Production+—+End+to+End)](https://github.com/tortejumpy)
 
 <br/>
 
@@ -267,8 +269,8 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tortejumpy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortejumpy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tortejumpy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortejumpy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -285,7 +287,7 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tortejumpy&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tortejumpy&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -333,4 +335,4 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" alt="footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="footer marquee"/>
