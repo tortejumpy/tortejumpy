@@ -21,9 +21,9 @@
 
 ```python
 class Engineer:
-    name       = "Your Name"
-    role       = ["AI/ML Engineer", "Data Scientist", "Full Stack Developer"]
-    location   = "Your City, Country"
+    name       = "Harsh Pandey"
+    role       = ["AI/ML Engineer", "Data Scientist", "Full Stack Developer", "Data Analyst"]
+    location   = "Bengaluru, India"
     
     focus      = [
         "Building end-to-end AI systems that reach production",
