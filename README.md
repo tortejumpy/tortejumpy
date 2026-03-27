@@ -4,14 +4,14 @@
 
 [![Tagline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=999999&color=7B2FFF&center=true&vCenter=true&multiline=true&width=700&height=50&lines=Building+AI+Systems+That+Think%2C+Scale+%26+Deliver)](https://github.com/tortejumpy)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=🤖+Agentic+AI+%26+RAG+Systems+Engineer;📊+Data+Scientist+%7C+ML+Practitioner;🌐+Full+Stack+Developer+(MERN+%2B+Microservices);🔬+NLP+%7C+Computer+Vision+%7C+LLMs;🚀+From+Research+to+Production+—+End+to+End)](https://github.com/tortejumpy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=+Agentic+AI+%26+RAG+Systems+Engineer;+Data+Scientist+%7C+ML+Practitioner;+Full+Stack+Developer+(MERN+%2B+Microservices);+NLP+%7C+Computer+Vision+%7C+LLMs;+From+Research+to+Production+—+End+to+End)](https://github.com/tortejumpy)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/tortejumpy/portfolio-website)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh472/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpandey472@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-website-plum-gamma.vercel.app/)
+[![HuggingFace](https://img.shields.io/badge/%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tortejumpy)
 
 <img src="https://komarev.com/ghpvc/?username=tortejumpy&label=Profile+Views&color=00d4ff&style=flat-square&abbreviated=true" alt="profile views" />
@@ -24,7 +24,7 @@
 
 <img align="right" alt="AI Brain Animation" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## ⚡ About Me
+##  About Me
 
 ```python
 class HarshPandey:
@@ -39,25 +39,25 @@ class HarshPandey:
     belief  = "Real intelligence is built, not just modeled."
 ```
 
-- 🧠 Building **Agentic AI & RAG systems** that reason, retrieve, and automate
-- 🏗️ Architecting **microservices** with Docker, Redis, and real-time features
-- 📊 Translating raw data into **strategic business decisions** via ML & analytics
-- 🛡️ From **fraud detection** to **KYC automation** — AI for real-world impact
-- 🌱 Currently deep-diving into **LLM fine-tuning** and **multi-agent orchestration**
+-  Building **Agentic AI & RAG systems** that reason, retrieve, and automate
+-  Architecting **microservices** with Docker, Redis, and real-time features
+-  Translating raw data into **strategic business decisions** via ML & analytics
+-  From **fraud detection** to **KYC automation** — AI for real-world impact
+-  Currently deep-diving into **LLM fine-tuning** and **multi-agent orchestration**
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🏆 Tier 1 — Production-Grade Systems
+###  Tier 1 — Production-Grade Systems
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[🏥 MedAssist AI — Healthcare Microservices Platform](https://github.com/tortejumpy/MedAssist-AI-Scalable-Patient-Query-Appointment-System)**
+**[ MedAssist AI — Healthcare Microservices Platform](https://github.com/tortejumpy/MedAssist-AI-Scalable-Patient-Query-Appointment-System)**
 
 > Production-grade healthcare platform built on 5 independent microservices
 
@@ -74,7 +74,7 @@ class HarshPandey:
 </td>
 <td width="50%" valign="top">
 
-**[🕸️ NexusRAG — Graph-Based Explainable RAG System](https://github.com/tortejumpy/NexusRAG-Graph-Based-Explainable-RAG-System)**
+**[ NexusRAG — Graph-Based Explainable RAG System](https://github.com/tortejumpy/NexusRAG-Graph-Based-Explainable-RAG-System)**
 
 > Advanced RAG architecture using graph data structures for transparent AI reasoning
 
@@ -92,7 +92,7 @@ class HarshPandey:
 <tr>
 <td width="50%" valign="top">
 
-**[🤖 Agentic Customer Support Email Automation](https://github.com/tortejumpy/Customer-Support-Email-Automation-System-Agentic-RAG-Workflow-)**
+**[ Agentic Customer Support Email Automation](https://github.com/tortejumpy/Customer-Support-Email-Automation-System-Agentic-RAG-Workflow-)**
 
 > Multi-agent RAG pipeline automating customer support responses end-to-end
 
@@ -108,7 +108,7 @@ class HarshPandey:
 </td>
 <td width="50%" valign="top">
 
-**[👁️ LucidNav — AI Vision Assistant for the Visually Impaired](https://github.com/tortejumpy/LucidNav)**
+**[ LucidNav — AI Vision Assistant for the Visually Impaired](https://github.com/tortejumpy/LucidNav)**
 
 > Real-time agentic vision system helping visually impaired users navigate
 
@@ -125,13 +125,13 @@ class HarshPandey:
 </tr>
 </table>
 
-### 🥈 Tier 2 — AI & Automation Highlights
+###  Tier 2 — AI & Automation Highlights
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**[🕵️ GitAgent — AI Code Reviewer](https://github.com/tortejumpy/GitAgent-Autonomous-AI-Code-Reviewer)**
+**[ GitAgent — AI Code Reviewer](https://github.com/tortejumpy/GitAgent-Autonomous-AI-Code-Reviewer)**
 
 Autonomous agent that reviews GitHub Pull Requests in real-time — catches bugs before humans do.
 
@@ -142,7 +142,7 @@ Autonomous agent that reviews GitHub Pull Requests in real-time — catches bugs
 </td>
 <td width="33%" valign="top">
 
-**[🧘 Serenity Bot — Mental Health AI](https://github.com/tortejumpy/serenity-bot)**
+**[ Serenity Bot — Mental Health AI](https://github.com/tortejumpy/serenity-bot)**
 
 AI companion using CBT techniques + multimodal emotion detection for mental wellness support.
 
@@ -153,12 +153,12 @@ AI companion using CBT techniques + multimodal emotion detection for mental well
 </td>
 <td width="33%" valign="top">
 
-**[🔤 LexiScan — NER Automation](https://github.com/tortejumpy/lexiscan-main)**
+**[ LexiScan — NER Automation](https://github.com/tortejumpy/lexiscan-main)**
 
 Automated Named Entity Recognition pipeline with a frontend demo, deployed on Hugging Face Spaces.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Spaces-FFD21E?style=flat-square&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/%20Spaces-FFD21E?style=flat-square&logoColor=black)
 ![NER](https://img.shields.io/badge/NER%20Pipeline-4CAF50?style=flat-square&logo=python&logoColor=white)
 
 </td>
@@ -166,7 +166,7 @@ Automated Named Entity Recognition pipeline with a frontend demo, deployed on Hu
 <tr>
 <td width="33%" valign="top">
 
-**[📉 Customer Churn Prediction](https://github.com/tortejumpy/customer-churn-prediction)**
+**[ Customer Churn Prediction](https://github.com/tortejumpy/customer-churn-prediction)**
 
 End-to-end ML pipeline using Gradient Boosting + EDA to reduce churn via targeted retention.
 
@@ -177,7 +177,7 @@ End-to-end ML pipeline using Gradient Boosting + EDA to reduce churn via targete
 </td>
 <td width="33%" valign="top">
 
-**[🏢 AI-Powered KYC Platform](https://github.com/tortejumpy/AI-Powered-KYC-Onboarding-Optimization-Platform)**
+**[ AI-Powered KYC Platform](https://github.com/tortejumpy/AI-Powered-KYC-Onboarding-Optimization-Platform)**
 
 Computer Vision + analytics pipeline for automated financial KYC onboarding optimization.
 
@@ -188,7 +188,7 @@ Computer Vision + analytics pipeline for automated financial KYC onboarding opti
 </td>
 <td width="33%" valign="top">
 
-**[🛒 SubSync — Real-Time Subscription Marketplace](https://github.com/tortejumpy/SubSync-Real-Time-Subscription-Marketplace-Platform)**
+**[ SubSync — Real-Time Subscription Marketplace](https://github.com/tortejumpy/SubSync-Real-Time-Subscription-Marketplace-Platform)**
 
 MERN stack platform for collaborative digital subscription sharing with real-time Socket.io sync.
 
@@ -202,11 +202,11 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚙️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
-### 💬 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -214,7 +214,7 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🤖 AI / ML / LLMs
+###  AI / ML / LLMs
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -226,7 +226,7 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### 📊 Data Science
+###  Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -235,7 +235,7 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Prophet](https://img.shields.io/badge/Prophet-0078D4?style=for-the-badge&logo=facebook&logoColor=white)
 
-### 🌐 Full Stack
+###  Full Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -244,7 +244,7 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### 🗄️ Databases & Storage
+###  Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -252,7 +252,7 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ☁️ DevOps & Tools
+###  DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -266,12 +266,10 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tortejumpy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortejumpy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages"/>
-</div>
+
 
 <div align="center">
 
@@ -285,37 +283,33 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 
 </div>
 
-<div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tortejumpy&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Highlights at a Glance
+##  Highlights at a Glance
 
 <div align="center">
 
-| 🤖 AI / Agentic Systems | 📊 Data Science Projects | 🌐 Full Stack Apps | ☁️ Deployed to Cloud |
+|  AI / Agentic Systems |  Data Science Projects |  Full Stack Apps |  Deployed to Cloud |
 |:---:|:---:|:---:|:---:|
 | **12+** | **10+** | **8+** | **AWS · Hugging Face** |
 
 </div>
 
-- 🕸️ Built a **Graph-Based Explainable RAG system** — tackling AI transparency at a research level
-- 🏥 Engineered a **5-microservice healthcare platform** with Docker, Redis, CI/CD pipeline
-- 🤖 Designed a **multi-agent LLM fallback chain** (Llama 70B → 8B → Gemini) for cost-optimized automation
-- 👁️ Shipped **LucidNav**, a real-time AI vision assistant for visually impaired users — YOLO + OCR + TTS
-- 🛡️ Built **AI-powered KYC automation** using Computer Vision for financial onboarding
-- 📰 Deployed **NLP pipelines** to Hugging Face Spaces with live demo frontends
-- 📈 Delivered **Power BI dashboards, A/B testing frameworks**, and **time-series forecasting** systems
-- 🔁 Built **n8n + VAPI voice automation** for AI-powered appointment booking — zero code, full intelligence
-- 💼 Completed **JPMorgan Chase Forage** software engineering virtual internship tasks
+-  Built a **Graph-Based Explainable RAG system** — tackling AI transparency at a research level
+-  Engineered a **5-microservice healthcare platform** with Docker, Redis, CI/CD pipeline
+-  Designed a **multi-agent LLM fallback chain** (Llama 70B → 8B → Gemini) for cost-optimized automation
+-  Shipped **LucidNav**, a real-time AI vision assistant for visually impaired users — YOLO + OCR + TTS
+-  Built **AI-powered KYC automation** using Computer Vision for financial onboarding
+-  Deployed **NLP pipelines** to Hugging Face Spaces with live demo frontends
+-  Delivered **Power BI dashboards, A/B testing frameworks**, and **time-series forecasting** systems
+-  Built **n8n + VAPI voice automation** for AI-powered appointment booking — zero code, full intelligence
+-  Completed **JPMorgan Chase Forage** software engineering virtual internship tasks
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -327,7 +321,7 @@ MERN stack platform for collaborative digital subscription sharing with real-tim
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/tortejumpy/portfolio-website)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace%20Spaces-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/yourusername)
+[![HuggingFace](https://img.shields.io/badge/%20HuggingFace%20Spaces-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/yourusername)
 
 <br/>
 
